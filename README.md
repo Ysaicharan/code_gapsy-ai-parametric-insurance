@@ -125,11 +125,11 @@ AI is a core component of the system:
 
 ## (8) 🛠️ Technology Stack
 
-* Frontend: React
-* Backend: Node.js / Express
-* Database: PostgreSQL
-* AI/ML Models: Python (Scikit-learn)
-* External APIs: Weather API, AQI API
+- **Frontend:** React.js  
+- **Backend:** Node.js / Express  
+- **Database:** PostgreSQL  
+- **AI/ML:** Python (Scikit-learn)  
+- **APIs:** Weather API, AQI API  
 
 ---
 
